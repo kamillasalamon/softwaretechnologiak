@@ -1,0 +1,17 @@
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\bin\Debug\net6.0-windows\ElsoHet.exe
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\bin\Debug\net6.0-windows\ElsoHet.deps.json
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\bin\Debug\net6.0-windows\ElsoHet.runtimeconfig.json
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\bin\Debug\net6.0-windows\ElsoHet.dll
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\bin\Debug\net6.0-windows\ElsoHet.pdb
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.csproj.AssemblyReference.cache
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.Form1.resources
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.csproj.GenerateResource.cache
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.AssemblyInfoInputs.cache
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.AssemblyInfo.cs
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.csproj.CoreCompileInputs.cache
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.dll
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\refint\ElsoHet.dll
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.pdb
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ElsoHet.genruntimeconfig.cache
+C:\Users\k8j4nw\source\repos\ElsoHet\ElsoHet\obj\Debug\net6.0-windows\ref\ElsoHet.dll
