@@ -1,0 +1,17 @@
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\bin\Debug\net7.0-windows\MasodikHet.exe
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\bin\Debug\net7.0-windows\MasodikHet.deps.json
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\bin\Debug\net7.0-windows\MasodikHet.runtimeconfig.json
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\bin\Debug\net7.0-windows\MasodikHet.dll
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\bin\Debug\net7.0-windows\MasodikHet.pdb
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.csproj.AssemblyReference.cache
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.Form1.resources
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.csproj.GenerateResource.cache
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.AssemblyInfoInputs.cache
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.AssemblyInfo.cs
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.csproj.CoreCompileInputs.cache
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.dll
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\refint\MasodikHet.dll
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.pdb
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\MasodikHet.genruntimeconfig.cache
+C:\Users\k8j4nw\source\repos\MasodikHet\MasodikHet\obj\Debug\net7.0-windows\ref\MasodikHet.dll
